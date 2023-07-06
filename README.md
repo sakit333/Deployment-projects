@@ -6,6 +6,12 @@
 ```cd app```
 ## Install NPM Dependencies 
 ```npm install```
+
+
+## execute shell
+```npm --prefix "./app" install```
+```npm --prefix "./app" run build```
+
 ## Start React 
 ```npm start```
 
