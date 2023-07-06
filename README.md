@@ -10,7 +10,6 @@
 
 ## execute shell
 ```npm --prefix "./app" install```
-
 ```npm --prefix "./app" run build```
 
 ## Start React 
