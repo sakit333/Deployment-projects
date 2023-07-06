@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: back-end
-          image: kantharaj46/backend
+          image: sakit333/backend
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
